@@ -10,7 +10,7 @@
 </div>
 
 <div id="frederick-gomez">
-<img src="https://komarev.com/ghpvc/?username=frederick-gomez&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=frederick-gomez&style=flat-square&color=brightgreen" alt="Profile Views"/>
 </div>
 	
 </div>
