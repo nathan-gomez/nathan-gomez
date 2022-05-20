@@ -1,10 +1,10 @@
 <div align="center">
 <div id="header">
-	<img src="https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif" width="200" />
+	<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="300" />
 </div>
 
 <div id="badges" >
-	<a href="www.linkedin.com/in/federico-gomez-6b988b21a" target="_blank" rel="noreferrer noopener">
+	<a href="https://www.linkedin.com/in/federico-gomez-6b988b21a" target="_blank" rel="noreferrer noopener">
 		<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 	</a>
 </div>
@@ -12,7 +12,7 @@
 <div id="frederick-gomez">
 <img src="https://komarev.com/ghpvc/?username=frederick-gomez&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-<h1>Hi there 👋</h1>
+	
 </div>
 
 
@@ -24,7 +24,7 @@ I am an aspiring Front End Developer from Paraguay :earth_americas::paraguay:
 
 - :hourglass: In my free time, i study technologies that i enjoy and, of course, play videogames.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/federico-gomez-6b988b21a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gomez-6b988b21a)
 
 ---
 
