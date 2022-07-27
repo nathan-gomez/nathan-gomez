@@ -18,13 +18,13 @@
 
 ### :man_technologist: About me:
 
-I am an aspiring Front End Developer from Paraguay :earth_americas::paraguay:
+I am Front End Developer from Paraguay :earth_americas::paraguay:
 
 - :man_student: Currently doing my major in Software Engineering.
 
 - :hourglass: In my free time, i study technologies that i enjoy and, of course, play videogames.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gomez-6b988b21a)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gomez-dev/)
 
 ---
 
