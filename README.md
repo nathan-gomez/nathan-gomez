@@ -21,7 +21,7 @@
 I am Full Stack Developer from Paraguay :earth_americas::paraguay:
 
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gomez-dev/)
+- How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Profile-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/federico-gomez-dev/)
 
 ---
 
